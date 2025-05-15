@@ -7,6 +7,7 @@
 <!--    </bean>-->
 
     <bean id="alien1" class="com.priyanshi.Alien">
+
         <property name="age" value="46"></property>
     </bean>
 
