@@ -3,7 +3,13 @@
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="alien" class="com.priyanshi.Alien">
+    <bean id="alien1" class="com.priyanshi.Alien" scope="singleton">
+    </bean>
+
+<!--    <bean id="alien2" class="com.priyanshi.Alien">-->
+<!--    </bean>-->
+
+    <bean class="com.priyanshi.Laptop">
 
 </bean>
 </beans>
