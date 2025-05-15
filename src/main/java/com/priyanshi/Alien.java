@@ -8,7 +8,7 @@ public class Alien {
     private int salary;
 
     public  Alien(){
-        System.out.println("Object Created");
+       // System.out.println("Object Created");
     }
 
     //this is constructor injection
@@ -24,7 +24,7 @@ public class Alien {
     }
 
     public void setAge(int age) {
-        System.out.println("Setting the value");
+      //  System.out.println("Setting the value");
         this.age = age;
     }
 
