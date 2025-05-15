@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="AutoWire">
+    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="PrimaryBean">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747320012380</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="PrimaryBean">
+      <option name="closed" value="true" />
+      <created>1747325316348</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747325316348</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +195,7 @@
     <MESSAGE value="Constructor Injection" />
     <MESSAGE value="Creating Interface(Computer)" />
     <MESSAGE value="AutoWire" />
-    <option name="LAST_COMMIT_MESSAGE" value="AutoWire" />
+    <MESSAGE value="PrimaryBean" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimaryBean" />
   </component>
 </project>
