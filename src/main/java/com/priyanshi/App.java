@@ -21,5 +21,7 @@ public class App
 //
 //        System.out.println(obj2.age);
        // obj2.code();
+
+        //Desktop obj=(Desktop) context.getBean("com2");
     }
 }
