@@ -9,8 +9,18 @@
     <bean id="alien1" class="com.priyanshi.Alien">
 
 <!--        <property name="age" value="46"></property>-->
-        <constructor-arg value="21"/>
-        <property name="lap" ref="lap1"></property>
+<!--        <constructor-arg type="com.priyanshi.Laptop" ref="lap1"/>-->
+<!--        <constructor-arg  type="int" value="21"/>-->
+
+<!--        <constructor-arg index="1" ref="lap1"/>-->
+<!--        <constructor-arg  index="0" value="21"/>-->
+<!--        <constructor-arg index="2" value="40000"/>-->
+
+        <constructor-arg name="lap" ref="lap1"/>
+        <constructor-arg  name="age" value="21"/>
+        <constructor-arg name="salary" value="40000"/>
+
+<!--        <property name="lap" ref="lap1"></property>-->
     </bean>
 
 <!--    <bean id="alien2" class="com.priyanshi.Alien">-->

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="Inject Reference">
+    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="one Parameter by constructor-org">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
     </list>
@@ -132,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747311704889</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="one Parameter by constructor-org">
+      <option name="closed" value="true" />
+      <created>1747312100572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747312100573</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +153,7 @@
     <MESSAGE value="Setting Injection" />
     <MESSAGE value="Setting Injection (added property)" />
     <MESSAGE value="Inject Reference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inject Reference" />
+    <MESSAGE value="one Parameter by constructor-org" />
+    <option name="LAST_COMMIT_MESSAGE" value="one Parameter by constructor-org" />
   </component>
 </project>

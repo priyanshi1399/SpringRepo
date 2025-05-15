@@ -1,15 +1,21 @@
 package com.priyanshi;
 
+import java.beans.ConstructorProperties;
+
 public class Alien {
     private int age;
     private Laptop lap;
+    private int salary;
+
     public  Alien(){
         System.out.println("Object Created");
     }
 
-    public Alien(int age) {
-        System.out.println("Paramerterized constructor called");
+    @ConstructorProperties({"age","lap","salary"})
+    public Alien(int age, Laptop lap,int salary) {
         this.age = age;
+        this.lap = lap;
+        this.salary=salary;
     }
 
     public int getAge() {
