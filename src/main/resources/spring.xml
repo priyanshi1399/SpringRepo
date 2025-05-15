@@ -8,7 +8,8 @@
 
     <bean id="alien1" class="com.priyanshi.Alien">
 
-        <property name="age" value="46"></property>
+<!--        <property name="age" value="46"></property>-->
+        <constructor-arg value="21"/>
         <property name="lap" ref="lap1"></property>
     </bean>
 
