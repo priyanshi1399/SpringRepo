@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="PrimaryBean">
+    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="Lazy Bean">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Desktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747325316348</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lazy Bean">
+      <option name="closed" value="true" />
+      <created>1747327210825</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747327210825</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lazy Bean">
+      <option name="closed" value="true" />
+      <created>1747327220954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747327220954</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +210,7 @@
     <MESSAGE value="Creating Interface(Computer)" />
     <MESSAGE value="AutoWire" />
     <MESSAGE value="PrimaryBean" />
-    <option name="LAST_COMMIT_MESSAGE" value="PrimaryBean" />
+    <MESSAGE value="Lazy Bean" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lazy Bean" />
   </component>
 </project>
