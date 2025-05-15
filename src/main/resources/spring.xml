@@ -9,12 +9,13 @@
     <bean id="alien1" class="com.priyanshi.Alien">
 
         <property name="age" value="46"></property>
+        <property name="lap" ref="lap1"></property>
     </bean>
 
 <!--    <bean id="alien2" class="com.priyanshi.Alien">-->
 <!--    </bean>-->
 
-    <bean class="com.priyanshi.Laptop">
+    <bean id="lap1" class="com.priyanshi.Laptop">
 
 </bean>
 </beans>

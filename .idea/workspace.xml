@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="Object Creation and Scope">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eaf4e3a2-03a0-42a2-8073-0e103f076892" name="Changes" comment="Setting Injection (added property)">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/priyanshi/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/priyanshi/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747310092051</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setting Injection">
+      <option name="closed" value="true" />
+      <created>1747310771733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747310771734</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Setting Injection (added property)">
+      <option name="closed" value="true" />
+      <created>1747310833702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747310833702</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +134,8 @@
     <MESSAGE value="XML SpringFile Added" />
     <MESSAGE value="Main File(Object Creation)" />
     <MESSAGE value="Object Creation and Scope" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object Creation and Scope" />
+    <MESSAGE value="Setting Injection" />
+    <MESSAGE value="Setting Injection (added property)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting Injection (added property)" />
   </component>
 </project>
